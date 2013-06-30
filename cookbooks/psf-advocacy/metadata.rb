@@ -1,3 +1,4 @@
+# encoding: utf-8
 maintainer       "Martin von Löwis"
 maintainer_email ""
 license          "Apache 2.0"
